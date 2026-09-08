@@ -1,0 +1,6 @@
+{
+  "name": "AIA Architectural Drawing Studio",
+  "description": "Architectural drawing and title block template studio with AIA standard drawing sheets, automatic blueprint scale adjustment, 2D drafting blocks, cloud project sharing, and instant PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
